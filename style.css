@@ -271,8 +271,7 @@ input:active,
 input:focus,
 textarea:active,
 textarea:focus {
-	color: rgba(255, 255, 255, 0.5);
-	border: 1px solid #fff;
+	color: rgba(255, 255, 255, 0.75);
 }
 
 .contact-us-title {
