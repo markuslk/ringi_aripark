@@ -312,7 +312,6 @@ textarea:focus {
 
 	.hero-btn {
 		max-width: 350px;
-		margin-bottom: 2rem;
 	}
 
 	.cookies img {
@@ -322,6 +321,11 @@ textarea:focus {
 
 	.hero-info {
 		margin-top: auto;
+		gap: 3.5rem;
+	}
+
+	.hero-title {
+		margin-bottom: 0;
 	}
 
 	.cookies {
